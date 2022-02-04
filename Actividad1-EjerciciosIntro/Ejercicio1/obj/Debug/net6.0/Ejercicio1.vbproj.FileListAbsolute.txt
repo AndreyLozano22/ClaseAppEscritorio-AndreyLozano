@@ -1,0 +1,15 @@
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ref\Ejercicio1.dll
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.vb
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.vbproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\mauri\OneDrive - Uniempresarial\Tarea\5. Quinto Semestre\Aplicaciones de Escritorio 1\Actividad 1\Codigo VB\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.vbproj.AssemblyReference.cache
