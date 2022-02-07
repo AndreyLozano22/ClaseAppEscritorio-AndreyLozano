@@ -1,0 +1,15 @@
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.exe
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.deps.json
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.runtimeconfig.json
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.dll
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\bin\Debug\net6.0\ref\Arreglos.dll
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\bin\Debug\net6.0\Arreglos.pdb
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.vbproj.AssemblyReference.cache
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.AssemblyInfoInputs.cache
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.AssemblyInfo.vb
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.vbproj.CoreCompileInputs.cache
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.dll
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\ref\Arreglos.dll
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.pdb
+T:\Universidad\AppEscritorio\ClaseAppEscritorio-AndreyLozano\Actividad2-Arreglos\Arreglos\Arreglos\obj\Debug\net6.0\Arreglos.genruntimeconfig.cache
